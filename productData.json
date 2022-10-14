@@ -1,0 +1,295 @@
+{
+    "services": [
+      {"id": "0",
+        "title": "Yacht Cleaning",
+              "image": "/wow-images-png/yachtcleaning.png",
+              "price": "1.00",
+              "isInWishlist": false,
+              "description": "Yacht is no longer just a transport, it`s rather a place for relaxing, evidence of success and status or a kind of luxury indicator. That's why a perfect cleanliness will underline the beauty of your yacht.  Our specialty services include dry cleaning, laundry, carpet, mattress and curtains cleaning, marble and granite polishing. Our team uses new equipment for all cleaning purposes and eco friendly products that will protect your crew’s health, your guests and pets.",
+              "scalingType": "Area",
+              "serviceKey": "price_1LshmqBuxZTxcoKR3u2ZbB81"
+      },
+      
+      {"id": "1",
+      "title": "Steam Power",
+              "image": "/wow-images-png/steampower.png",
+              "price":  "1.00 ",
+              "isInWishlist": false,
+              "description": "The main advantage of steam cleaning is that it effectively replaced chemicals for heat without sacrificing effectiveness. Steam can quickly kill 99% of germs and bacteria, making  it a safe, healthy, eco-friendly way to clean your home. Our experts use only innovative and modern steam equipment, which allows us to clean all household surfaces and hard-to-reach places fast and effectively.",
+              "scalingType": "Area",
+              "serviceKey": "price_1LshnMBuxZTxcoKR6szoBUaY"
+            },
+      
+      {"id": "2",
+      "title": "Move in/out cleaning",
+              "image": "/wow-images-png/moveinout.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "Moving can be stressful, but the cleaning doesn’t have to be. Our cleaning specialists can provide solutions for both the home you are moving out of as well as the one you are moving into. Our standard move-in and move-out cleaning includes: deep vacuuming and mopping floors, dusting all surfaces and fixtures, cleaning kitchen appliances and cabinets inside and out, deep cleaning of bathroom and other spaces.  Our experts can fulfill your move-in or move-out cleaning duties so you can enjoy your new place. ",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1Lsho2BuxZTxcoKREVMddj96"
+      },
+      
+      {"id": "3",
+      "title": "Fresh curtains",
+              "image": "/wow-images-png/freshcurtains.png",
+              "price":  "1.00 ",
+              "isInWishlist": false,
+              "description": "Tulle and curtains are the final elements of the home decor, in addition, they perform a list of specific functions , for instance they  protect your private space from the sunshine, prying eyes and cold air. Unfortunately, they also collect a lot of dust and dirt in fibers, as  from the street as indoors. Our laundry curtains service allows to return your beautiful  products to their original appearance, cleanliness and freshness. ",
+              "scalingType": "Area",
+              "serviceKey": "price_1LshoUBuxZTxcoKR9vEiILdO"
+      },
+      {"id": "4",
+      "title": "Kosher cleaning",
+              "image": "/wow-images-png/koshercleaning.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "We always strive to give our clients nothing but the best.  Our experts use only kosher certified detergents, which are produced according to kosher law. Every member of our team is meticulously trained in the requirements of kosher cleaning. When executing our kosher cleaning services, we always make sure to pay special attention to detail and keep the kosher items separate from the non-kosher items in a given area.  Our company proposes to you a wide list of daily, weekly, monthly and general cleaning service and Passover cleaning based on your requests and rules.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshoyBuxZTxcoKRTOBs3Qzh"
+      },
+     
+      {"id": "5",
+      "title": "Shiny kitchen ethalon",
+              "image": "/wow-images-png/kitchenclean.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "A tidy and well-groomed kitchen motivates to create culinary masterpieces. However, looking at the mountains of unwashed dishes and dirty kitchen equipment,  many housewives simply give up. Don`t panic, our experts will remove stains of fat from all surfaces, delete webs and dust, remove all old stains on the floor and walls, wash dishes and kitchen equipment, including refrigerator, oven and  grill. When  Shen experts complete their work, your kitchen will shine again.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshpPBuxZTxcoKROUAFAxpR"
+      },
+     
+      {"id": "6",
+      "title": "Bust a dust",
+              "image": "/wow-images-png/bustadust.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "General cleaning is quite a trouble and time-consuming process that periodically disturbs the house owners. Of course it is provided more rarely  than regular supportive cleaning, but it includes a wide list of manipulations and works around all home spaces, such as bathroom, kitchen,wardrobes and other rooms. Fortunately, the general cleaning can be trusted to the real professional team who provides a cleaning service perfectly and supports  a crystal clear at your home.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshpoBuxZTxcoKRVOkL5D0N"
+      },
+      
+      {"id": "7",
+      "title": "Soft & Fresh carpets",
+              "image": "/wow-images-png/softcarpets.png",
+              "price":  "1.00 ",
+              "isInWishlist": false,
+              "description": "Carpets are designed to create coziness at home , but due to long-term operation they can become clogged with sand and crumbs, collect a significant amount of dust and pet hair. As a result, the carpet ceases to be fluffy and soft and becomes harmful for health. Our company provides carpet cleaning services which return to your carpet freshness and softness. ",
+              "scalingType": "Area",
+              "serviceKey": "price_1LshqFBuxZTxcoKRDDOuSHVd"
+      },
+      
+      {"id": "8",
+      "title": "Balcony upgrade",
+              "image": "/wow-images-png/balconyUpgrade.png",
+              "price":  "1.00 ",
+              "isInWishlist": false,
+              "description": "Often on the balcony we collect seasonal things or something, which we hesitate to  throw away. For cleaning this space  you need to sort and remove everything. Without special compositions and tools, you can quickly get stuck on this task. In addition, there is always a lot of dust on the balcony, it clogs to hard-to-reach places and the cleaning is stretched indefinitely. To protect you from unnecessary trouble, our company provides a professional service of balconies cleaning. Our cleaners take out the garbage and unnecessary things (by agreement, with your permission), clean window frames and window sills from debris and dust, delete webs from all surfaces, wash the ceiling, walls and floor.",
+              "scalingType": "Area",
+              "serviceKey": "price_1LshqXBuxZTxcoKRwDnhql6l"
+      },
+      
+      {"id": "9",
+      "title": "Germ-Free cleaning",
+              "image": "/wow-images-png/germfree.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "Contacts with a sick person via things, surfaces, furniture can leave many infectious pathogens at the space. Our specialists offer a wide range of disinfection and cleaning services after illness, including wet cleaning, disinfection of surfaces and air. In addition, our experts use special disinfection methods such as heat treatment, quartzizing, hot steam cleaning and utilization of household garbage. Please remember, disinfection after illness is an important prevent procedure which help   to protect your family and avoid re-infection.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshqxBuxZTxcoKRzhV2XL6M"
+      },
+      
+      {"id": "10",
+      "title": "Afterparty cleaning",
+              "image": "/wow-images-png/afterpartyclean.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "Sometimes cleaning after the celebrations takes even more energy than preparing for them. And the expectation of the scale of the upcoming disaster can spoil the mood already during the celebration. To prevent this, use the services of our cleaning company. We can manage even the most difficult cases, when there is no hope of returning the house to its cleanliness and comfort. Be sure that with our team your holiday leaves only the most positive and pleasant memories! ",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshrJBuxZTxcoKRs7Olz3Gc"
+      },
+      
+      {"id": "11",
+      "title": "Window washing",
+              "image": "/wow-images-png/windowclean.png",
+              "price":  "1.00 ",
+              "isInWishlist": false,
+              "description": "The windows are the eyes of your home, so clean and bright glass creates a cozy and relaxing atmosphere. Also the cleanliness of the windows affects on human health, because safe sunlight provides us with energy and vitamin D. Trust window washing to our company  professional staff and enjoy high-quality fast service and sunlight.",
+              "scalingType": "Area",
+              "serviceKey": "price_1LshrwBuxZTxcoKR51fEG9bs"
+      },
+      
+      {"id": "12",
+      "title": "Laundry Service",
+              "image": "/wow-images-png/laundryservice.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "If you are tired of long and poor-quality washing, we can offer you flawless laundry and ironing of different clothes, blankets, plaids, bed-clothes, towels and curtains. You needn't worry about delivering your clothes to laundry and wait days for the result. Our experts think over every little detail  that you will get a really high-quality service from the moment of filling the application to receiving your perfect washed clothes.",
+              "scalingType": "Area",
+              "serviceKey": "price_1LshsLBuxZTxcoKRCc44CIzQ"
+      },
+     
+      {"id": "13",
+      "title": "Blinds cleaning",
+              "image": "/wow-images-png/blindsclean.png",
+              "price":  "1.00 ",
+              "isInWishlist": false,
+              "description": "Blinds perform important functions, for example, they create a cozy home atmosphere, serve as an interesting decor, protect our privacy from the sunshine  and prying eyes. Often because of the opened  windows the blinds collect a lot of dust, but we rarely find enough time to clean them efficiently. Popular home methods do not help, and sometimes even spoil the quality of blinds. Our professionals will help to solve this problem and clean your blinds at 100%.",
+              "scalingType": "Area",
+              "serviceKey": "price_1LshswBuxZTxcoKRZYrqEfvA"
+      },
+      
+      {"id": "14",
+      "title": "Worry-free pregnancy cleaning",
+              "image": "/wow-images-png/pregnantclean.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "Pregnancy is a very important period in the life of every woman, therefore it is necessary to take care of your health and body and spend time having fun. Agree with us that cleaning is not the best activity for such a special period. Our company will become your reliable assistant and take over your household responsibilities. Our experts will carefully clean every inch of your home. Please don't worry, we use only safe detergents and clean quickly, efficiently and silently. Spend time with your family, not with rags and a vacuum cleaner.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshtNBuxZTxcoKRmblQeB90"
+      },
+      
+      {"id": "15",
+      "title": "Perfumer's perfection",
+              "image": "/wow-images-png/perfumerclean.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "Nicotine, pet or dust  smells can disturb you, casuse allergy or spoil the impression about your great home. If you’ve just moved in or found an odour you hadn’t noticed before, don’t panic. Our professional team will solve this problem and eliminate smells. Enjoy the cleanliness and freshness of your home.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshtpBuxZTxcoKRHk7Ve0tc"
+      },
+      
+      {"id": "16",
+      "title": "Lab-alike cleanliness",
+              "image": "/wow-images-png/labclean.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "During the spread of the COVID-19 pandemic, disinfection of our environmental space has become a necessity due it`s huge influence on human safety and health. We offer a full range of services for the disinfection of air, surfaces, equipment, vehicles. Our methods allow us to destroy viruses, bacteria and fungi by using antiviral treatment of spaces, professional cold mist disinfection and daily manual disinfection.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshuCBuxZTxcoKRbpa0492Y"
+      },
+      
+      {"id": "17",
+      "title": "Alergens-free cleaning",
+              "image": "/wow-images-png/alergensfree.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "Hypoallergenic cleaning is a necessary service for houses where pregnant women, babies and people with allergies live.  During hypoallergenic cleaning session our specialists use non-toxic, harmless detergents and technologies that are safe for adults, kids and animals (for example, a steam generator).  Our professional approach guarantees a completely remove dust particles, bacteria and microorganisms that cause an allergic reaction.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshuZBuxZTxcoKRCfKktghk"
+      },
+      
+      {"id": "18",
+      "title": "Kids chaos cleaning",
+              "image": "/wow-images-png/kidsclean.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "Parents always try to make the world more safe for their children.  Usual detergents for cleaning floors and furniture can be dangerous for children's health. Chemical elements and synthetic additives can cause skin irritation and allergies. The best way to protect your kid is trusting a cleaning of your home to our experts.  All detergents for cleaning floors, walls, windows and plumbing are certified and repeatedly tested.  Save you time for family fun and entertainment.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1Lshv3BuxZTxcoKRlEkTzdKs"
+      },
+      
+      {"id": "19",
+      "title": "Everyday freshness",
+              "image": "/wow-images-png/everydayfresh.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "Daily home cleaning allows to maintain a pureness and to reduce the amount of  dust and allergens in several times.  We offer a profitable solution that will save your time and effort. You can spend these invaluable resources on important personal matters, business or your family. Scientists have estimated that every woman spends about 8 (!) years of her life maintaining cleanliness in her home. Agree, it is much more pleasant to devote time to your hobby, sport, husband or taking care of yourself.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshvNBuxZTxcoKR8HhC40ot"
+      },
+      
+      {"id": "20",
+      "title": "Shiny penny bathroom",
+              "image": "/wow-images-png/shinybathroom.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "Cleaning of the bathroom is the most difficult and time-consuming stage of the  cleaning session. The high humidity and heat create the special conditions for development of dangerous bacteria and mould. Our professional bathroom cleaning with disinfection will help to protect  your home.  Shen professional services include tile cleaning with antifungal agents, disinfection of walls, floors, plumbing, faucets, heated towel rails and other accessories. Our experts use various high-quality detergents which don't damage any surfaces. With Shen your bathroom will sparkle and smell of freshness.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshviBuxZTxcoKR2kKlfTz9"
+      },
+      
+      {"id": "21",
+      "title": "Airbnb homestays cleaning",
+              "image": "/wow-images-png/airbnbclean.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "AirBnb Cleaning",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1Lshw7BuxZTxcoKRR0AYDf59"
+      }
+    
+    ],
+    "hot_offers": [
+        {"id": "0",
+        "title": "Yacht Cleaning",
+              "image": "/wow-images-png/yachtcleaning.png",
+              "price": "1.00",
+              "isInWishlist": false,
+              "description": "Yacht is no longer just a transport, it`s rather a place for relaxing, evidence of success and status or a kind of luxury indicator. That's why a perfect cleanliness will underline the beauty of your yacht.  Our specialty services include dry cleaning, laundry, carpet, mattress and curtains cleaning, marble and granite polishing. Our team uses new equipment for all cleaning purposes and eco friendly products that will protect your crew’s health, your guests and pets.",
+              "scalingType": "Area",
+              "serviceKey": "price_1LshmqBuxZTxcoKR3u2ZbB81"
+      },
+      
+      {"id": "1",
+      "title": "Steam Power",
+              "image": "/wow-images-png/steampower.png",
+              "price":  "1.00 ",
+              "isInWishlist": false,
+              "description": "The main advantage of steam cleaning is that it effectively replaced chemicals for heat without sacrificing effectiveness. Steam can quickly kill 99% of germs and bacteria, making  it a safe, healthy, eco-friendly way to clean your home. Our experts use only innovative and modern steam equipment, which allows us to clean all household surfaces and hard-to-reach places fast and effectively.",
+              "scalingType": "Area",
+              "serviceKey": "price_1LshnMBuxZTxcoKR6szoBUaY"
+            },
+      
+      {"id": "2",
+      "title": "Move in/out cleaning",
+              "image": "/wow-images-png/moveinout.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "Moving can be stressful, but the cleaning doesn’t have to be. Our cleaning specialists can provide solutions for both the home you are moving out of as well as the one you are moving into. Our standard move-in and move-out cleaning includes: deep vacuuming and mopping floors, dusting all surfaces and fixtures, cleaning kitchen appliances and cabinets inside and out, deep cleaning of bathroom and other spaces.  Our experts can fulfill your move-in or move-out cleaning duties so you can enjoy your new place. ",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1Lsho2BuxZTxcoKREVMddj96"
+      },
+      
+      {"id": "3",
+      "title": "Fresh curtains",
+              "image": "/wow-images-png/freshcurtains.png",
+              "price":  "1.00 ",
+              "isInWishlist": false,
+              "description": "Tulle and curtains are the final elements of the home decor, in addition, they perform a list of specific functions , for instance they  protect your private space from the sunshine, prying eyes and cold air. Unfortunately, they also collect a lot of dust and dirt in fibers, as  from the street as indoors. Our laundry curtains service allows to return your beautiful  products to their original appearance, cleanliness and freshness. ",
+              "scalingType": "Area",
+              "serviceKey": "price_1LshoUBuxZTxcoKR9vEiILdO"
+      },
+      {"id": "4",
+      "title": "Kosher cleaning",
+              "image": "/wow-images-png/koshercleaning.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "We always strive to give our clients nothing but the best.  Our experts use only kosher certified detergents, which are produced according to kosher law. Every member of our team is meticulously trained in the requirements of kosher cleaning. When executing our kosher cleaning services, we always make sure to pay special attention to detail and keep the kosher items separate from the non-kosher items in a given area.  Our company proposes to you a wide list of daily, weekly, monthly and general cleaning service and Passover cleaning based on your requests and rules.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshoyBuxZTxcoKRTOBs3Qzh"
+      },
+     
+      {"id": "5",
+      "title": "Shiny kitchen ethalon",
+              "image": "/wow-images-png/kitchenclean.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "A tidy and well-groomed kitchen motivates to create culinary masterpieces. However, looking at the mountains of unwashed dishes and dirty kitchen equipment,  many housewives simply give up. Don`t panic, our experts will remove stains of fat from all surfaces, delete webs and dust, remove all old stains on the floor and walls, wash dishes and kitchen equipment, including refrigerator, oven and  grill. When  Shen experts complete their work, your kitchen will shine again.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshpPBuxZTxcoKROUAFAxpR"
+      },
+     
+      {"id": "6",
+      "title": "Bust a dust",
+              "image": "/wow-images-png/bustadust.png",
+              "price":  "50.00 ",
+              "isInWishlist": false,
+              "description": "General cleaning is quite a trouble and time-consuming process that periodically disturbs the house owners. Of course it is provided more rarely  than regular supportive cleaning, but it includes a wide list of manipulations and works around all home spaces, such as bathroom, kitchen,wardrobes and other rooms. Fortunately, the general cleaning can be trusted to the real professional team who provides a cleaning service perfectly and supports  a crystal clear at your home.",
+              "scalingType": "Rooms",
+              "serviceKey": "price_1LshpoBuxZTxcoKRVOkL5D0N"
+      }
+    ]
+  }
+    
+
